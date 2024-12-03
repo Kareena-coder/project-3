@@ -1,0 +1,7 @@
+This is a first issue in the planning:
+
+Kickoff:
+
+we have planned for the project kickoff:  kareena and aruna
+
+commiting this change.
